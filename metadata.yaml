@@ -1,0 +1,33 @@
+_repo: Medical-Investigation-in-Seventeenth-Century-EnglandPapers-Read-at-a-Clark-Library-Seminar-Oc__30016
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30016-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: King, Lester S. (Lester Snow)
+    birthdate: 1908
+    deathdate: 2002
+    gutenberg_agent_id: '34315'
+    url: http://www.gutenberg.org/2009/agents/34315
+  - agent_name: Bodemer, Charles W.
+    gutenberg_agent_id: '34314'
+    url: http://www.gutenberg.org/2009/agents/34314
+description: ''
+gutenberg_issued: '2009-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30016'
+  lccn: '76626038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Embryology -- England -- History -- 17th century'
+- !lcc 'QL'
+- !lcsh 'Boyle, Robert, 1627-1691'
+title: 'Medical Investigation in Seventeenth Century England
+
+  Papers Read at a Clark Library Seminar, October 14, 1967'
+url: http://www.gutenberg.org/ebooks/30016
